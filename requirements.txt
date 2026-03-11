@@ -1,0 +1,9 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.5
+redis==5.0.1
+flask-limiter==3.5.0
+python-dotenv==1.0.0
+shortuuid==1.0.13
+click==8.1.7
+gunicorn==21.2.0
