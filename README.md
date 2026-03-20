@@ -10,7 +10,6 @@ A high-performance URL shortening service built with Flask, PostgreSQL, and Redi
 - **Click Analytics**: Track clicks, unique visitors, referrers, and geographic data
 - **URL Expiration**: Set expiration dates for short URLs
 - **REST API**: Clean JSON API with comprehensive endpoints
-- **Docker Support**: Easy deployment with Docker Compose
 
 ## Tech Stack
 
